@@ -1,0 +1,9 @@
+@media screen and (min-width:992px) {
+    .navbar .container, .navbar-expand-lg, .navbar-collapse, .navbar-nav {
+        flex-direction: column;
+    }
+    
+}
+.classy{
+    border-radius: 30px;
+}
